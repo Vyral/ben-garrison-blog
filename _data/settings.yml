@@ -1,6 +1,6 @@
 audit_header: false
-title: Base Template
-description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.
+title: Ben Garrison Real Estate Video Blog
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Ben Garrison - your professional New Jersney Real Estate Agent.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,7 +9,9 @@ client:
   name: Ben Garrison
   license_number: 0898658
   about_markdown: |
+    As a top agent who's an expert in this local area, I bring a wealth of knowledge and expertise about buying and selling real estate here. It's not the same everywhere, so you need someone you can trust for up-to-date information. I specialize in helping buyers and sellers in Maplewood, South Orange, Montclair, Glen Ridge, Millburn/Short Hills & Summit New Jersey.
 
+    My people skills, determination, and dedication to service empowers me to help my clients achieve their real estate goals. Working in music for fifteen years taught me the importance of working creatively with others to achieve the perfect end result. By running my own business I developed a strong base of marketing techniques. I use those skills every day working with clients. My goal is to be your trusted friend in real estate for lifeI am eager to serve you.
   market: New Jersey
   brand:
   brokerage: Coldwell Banker Residential Brokerage
@@ -18,9 +20,9 @@ client:
   email: ben.garrison@cbmoves.com
   url: http://www.bengarrisonhomes.com/
   first_CTA_text: Home Evaluation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.bengarrisonhomes.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.bengarrisonhomes.com/search/
   VR_form: http://oi.vresp.com?fid=3d9edaed59
 socials:
   review_sm_icons: false
@@ -45,12 +47,12 @@ podcast:
   author:
 images:
   client_headshot_path: '/img/headshot.jpg'
-  hero_logo_path: 'http://placehold.it/500x200'
+  hero_logo_path: '/img/logo.png'
   hero_text: Real Estate Video Blog
-  hero_background_hex: '#094264'
-  hero_image_path: 'http://placehold.it/2000x350/094264'
-brand_color: '#094264'
-theme_color: '#ffffff'
+  hero_background_hex: '#17468F'
+  hero_image_path: '/img/background.jpg'
+brand_color: '#17468F'
+theme_color: '#17468F'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
