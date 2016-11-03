@@ -52,8 +52,4 @@ layout: null
     <media:rating>nonadult</media:rating>
     <media:description type="plain">{{site.data.settings.podcast.description}}</media:description>
   </channel>
-<<<<<<< HEAD
 </rss>
-=======
-</rss>
->>>>>>> b855a1571824f99fdccc74989aff31117e454a60
