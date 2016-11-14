@@ -13,15 +13,15 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: satbIWON7lk
+youtube_code: kKUxZxhjDAg
 ---
 
 
 {% include youtube.html %}
 
-Whenever people ask me how the current real estate market is, I tell them that the straight-board answer really depends on which town you live in or which town you’re looking to buy in. That being said, **all the New Jersey towns with direct train access to New York City generally are in a really strong market right now.&nbsp;**
+Whenever people ask me how the current real estate market is, I tell them that the straight-board answer really depends on which town you live in or which town you’re looking to buy in. That being said, **all the New Jersey towns with direct train access to New York City generally are in a really strong market right now.**
 
-In Maplewood, sales are currently running about 10% ahead of where they were this time last year. Inventory is about 40% lower than it was this time last year. Our current inventory—which is the amount of time it would take to sell all the listings on the market—is about 1.9 months. This basically translates into a strong seller’s market.&nbsp;
+In Maplewood, sales are currently running about 10% ahead of where they were this time last year. Inventory is about 40% lower than it was this time last year. Our current inventory—which is the amount of time it would take to sell all the listings on the market—is about 1.9 months. This basically translates into a strong seller’s market.
 
 {% include pullquote.html %}
 
